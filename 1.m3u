@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://epg.ovh/pltv.xml"
+#EXTM3U url-tvg="http://trex.queentv.club"
 #EXTINF:-1 tvg-id="ARKA NOEGO KOLĘDY PIOSENKI ŚWIĄTECZNE POL"tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SWIATECZNE.png"group-title="NA ŚWIĄTECZNIE 24/7"tvg-name="ARKA NOEGO KOLĘDY PIOSENKI ŚWIĄTECZNE POL",PL| ARKA NOEGO KOLĘDY PIOSENKI ŚWIĄTECZNE POL
 http://propowersolution.org:80/play/live.php?mac=00:1A:79:B7:A7:C3&stream=1735090&extension=ts
 #EXTINF:-1 tvg-id="ENEJ KOLĘDY POD WSPÓLNYM NIEBEM"tvg-logo="http://51.158.145.100/picons/logos/EUROPE/NIEBEM.png"group-title="NA ŚWIĄTECZNIE 24/7"tvg-name="ENEJ KOLĘDY POD WSPÓLNYM NIEBEM",PL| ENEJ KOLĘDY POD WSPÓLNYM NIEBEM
